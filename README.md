@@ -19,13 +19,13 @@
 
 ---
 
-## 👨🏽‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma na Fatec**, com interesse em desenvolvimento de software, Inteligência Artificial, automação e tecnologia aplicada a negócios.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma na Fatec**, com interesse em tecnologia e construção de soluções eficientes e escaláveis.
 
-💻 Gosto de aprender na prática, resolver problemas e transformar ideias em soluções.
+💻 Gosto de aprender na prática, resolver problemas e transformar ideias em soluções através da programação.
 
-🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **IA e automação com n8n**.
+🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **Inteligência Artificial e automação com n8n**.
 
 ---
 
@@ -53,9 +53,9 @@
 
 ---
 
-## 🤖 Áreas de Interesse
+## 🎯 Áreas de Interesse
 
-**🤖 Inteligência Artificial** · **🔄 Automação** · **💻 Desenvolvimento de Software** · **📊 Tecnologia & Negócios**
+**💻 Desenvolvimento de Software** · **📊 Dados** · **🏗️ Arquitetura de Software**
 
 ---
 
@@ -79,7 +79,7 @@
 
 ## 🎯 Além da tecnologia
 
-💡 Economia · ⚽ Futebol  · 📚 Aprendizado contínuo · 🚀 Inovação
+⚽ Futebol · 💡 Economia · 🎮 Games · 📚 Aprendizado contínuo · 🚀 Inovação
 
 ---
 
