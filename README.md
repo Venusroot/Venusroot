@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨🏽‍💻 Sobre mim
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma na Fatec**, com interesse em tecnologia e construção de soluções eficientes e escaláveis.
 
