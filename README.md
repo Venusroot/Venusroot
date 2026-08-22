@@ -59,15 +59,24 @@
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Venusroot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Venusroot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+height="170"
+alt="GitHub Stats"
+/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venusroot&layout=compact&hide_border=true&theme=transparent&langs_count=7" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venusroot&layout=compact&hide_border=true&theme=transparent&langs_count=7"
+height="170"
+alt="Top Languages"
+/>
 
 </div>
+
 
 ---
 
