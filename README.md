@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Olá, eu sou Augusto Mota!
+# 👋🏽 Olá, eu sou Augusto Mota!
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=8B7355&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Software;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Intelig%C3%AAncia+Artificial+%7C+n8n+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+solu%C3%A7%C3%B5es+com+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1200&color=8B7355&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Software;Java+%7C+Python+%7C+JavaScript+%7C+SQL;PHP+%7C+React+%7C+TypeScript+%7C+IA;Sempre+aprendendo+e+evoluindo+com+tecnologia" alt="Typing SVG" />
 </a>
 
 <p>
@@ -19,50 +19,43 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨🏽‍💻 Sobre mim
 
-🎓 Sou estudante de **Desenvolvimento de Software Multiplataforma na Fatec**, com interesse em desenvolvimento de sistemas, Inteligência Artificial, automação e tecnologia aplicada a negócios.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma na Fatec**, com interesse em desenvolvimento de software, Inteligência Artificial, automação e tecnologia aplicada a negócios.
 
-💡 Gosto de transformar problemas em soluções práticas, explorando diferentes tecnologias e buscando evoluir constantemente por meio de projetos acadêmicos e pessoais.
+💻 Gosto de aprender na prática, resolver problemas e transformar ideias em soluções.
 
-🚀 Atualmente, estou aprofundando meus conhecimentos em **Java, SQL, Python, JavaScript e Inteligência Artificial**, além de explorar automações e integrações utilizando **n8n**.
+🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **IA e automação com n8n**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens & Tecnologias
+
+<div align="center">
 
 ### 💻 Linguagens
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
 
-### 🌐 Desenvolvimento Web
+### 🌐 Web & Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 ### 🗄️ Banco de Dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🔧 Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netbeans" />
 
-### 🤖 Inteligência Artificial & Automação
+</div>
 
-<p>
-  <strong>Artificial Intelligence</strong> •
-  <strong>n8n</strong> •
-  <strong>Chatbots</strong> •
-  <strong>Automação</strong>
-</p>
+---
+
+## 🤖 Áreas de Interesse
+
+**🤖 Inteligência Artificial** · **🔄 Automação** · **💻 Desenvolvimento de Software** · **📊 Tecnologia & Negócios**
 
 ---
 
@@ -70,133 +63,40 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Venusroot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Venusroot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venusroot&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venusroot&hide_border=true&theme=transparent" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venusroot&layout=compact&hide_border=true&theme=transparent&langs_count=7" />
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧠 Atualmente aprendendo
 
-### 💍 VERA — Marketplace
-
-Projeto interdisciplinar desenvolvido durante a graduação, com foco na criação de um marketplace B2C especializado em joias e alianças.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `LocalStorage`
-
-🔗 [Ver projeto no GitHub](https://github.com/Venusroot)
+`Java` `SQL` `Python` `JavaScript` `PHP` `React` `TypeScript` `IA` `n8n`
 
 ---
 
-### ☕ Projetos em Java
+## 🎯 Além da tecnologia
 
-Projetos acadêmicos desenvolvidos durante minha formação em Desenvolvimento de Software Multiplataforma, aplicando lógica de programação, orientação a objetos e estruturas fundamentais da linguagem Java.
-
-**Tecnologias:**
-
-`Java` `POO` `Lógica de Programação`
-
-🔗 [Ver projetos](https://github.com/Venusroot?tab=repositories)
+💡 Economia · ⚽ Futebol  · 📚 Aprendizado contínuo · 🚀 Inovação
 
 ---
-
-### 🤖 IA & Automação
-
-Exploração de soluções envolvendo Inteligência Artificial, automação de processos, chatbots e integração de ferramentas utilizando n8n.
-
-**Tecnologias:**
-
-`IA` `n8n` `APIs` `Automação`
-
-🔗 [Ver projetos](https://github.com/Venusroot?tab=repositories)
-
----
-
-## 🎯 Atualmente
-
-```text
-🎓 Desenvolvimento de Software Multiplataforma — Fatec
-☕ Aprofundando conhecimentos em Java
-🗄️ Estudando SQL e Banco de Dados
-🐍 Desenvolvendo projetos em Python
-🤖 Explorando Inteligência Artificial
-🔄 Criando automações com n8n
-🚀 Construindo meu portfólio de desenvolvimento
-```
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Venusroot/Venusroot/output/github-contribution-grid-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Venusroot/Venusroot/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Venusroot/Venusroot/output/github-contribution-grid-snake.svg"
-/> </picture>
-
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
+### 📫 Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/augusto-mota-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Venusroot">
-  <img src="https://img.shields.io/badge/GitHub-Venusroot-181717?style=for-the-badge&logo=github" />
-</a>
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Venusroot&style=flat-square&color=8B7355" alt="Profile views" />
 
-<br>
-
-<div align="center">
+<br><br>
 
 <i>“Transformando conhecimento em soluções através da tecnologia.”</i>
 
 </div>
-
-<!--
-**Venusroot/Venusroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
