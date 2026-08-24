@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 👋🏽 Olá, eu sou Augusto Mota!
 
 <a href="https://readme-typing-svg.demolab.com/">
@@ -25,31 +25,43 @@
 
 💻 Gosto de aprender na prática, resolver problemas e transformar ideias em soluções através da programação.
 
-🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **Inteligência Artificial e automação com n8n**.
+🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **Inteligência Artificial e automação**.
 
 ---
 
-## 🛠️ Linguagens & Tecnologias
-
 <div align="center">
 
-### 💻 Linguagens
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
-
-### 🌐 Web & Frameworks
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,netbeans" />
+## 🛠️ Linguagens & Tecnologias
 
 </div>
+
+<div align="center">
+<table>
+  <tr>
+    <th>💻 Linguagens</th>
+    <th>🌐 Web & Frameworks</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <th>🗄️ Banco de Dados</th>
+    <th>🔧 Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,22 +73,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Venusroot&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-height="170"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venusroot&layout=compact&hide_border=true&theme=transparent&langs_count=7"
-height="170"
-alt="Top Languages"
-/>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Venusroot/Venusroot/languages-output/languages.svg?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
 
 ---
 
@@ -88,7 +87,8 @@ alt="Top Languages"
 
 ## 🎯 Além da tecnologia
 
-⚽ Futebol · 💡 Economia · 🎮 Games · 📚 Aprendizado contínuo · 🚀 Inovação
+📈 Economia · 📖 Leitura · 🚀 Inovação · ⚽ Futebol 
+
 
 ---
 
@@ -100,11 +100,7 @@ alt="Top Languages"
   <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Venusroot&style=flat-square&color=8B7355" alt="Profile views" />
-
-<br><br>
+<br>
 
 <i>“Transformando conhecimento em soluções através da tecnologia.”</i>
 
