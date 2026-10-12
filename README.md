@@ -3,7 +3,7 @@
 # 👋🏽 Olá, eu sou Augusto Mota!
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1200&color=8B7355&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Software;Java+%7C+Python+%7C+JavaScript+%7C+SQL;PHP+%7C+React+%7C+TypeScript+%7C+IA;Sempre+aprendendo+e+evoluindo+com+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1200&color=8B7355&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Software;Python+%7C+SQL+%7C+JavaScript+%7C+Java;PHP+%7C+React+%7C+TypeScript+%7C+IA;Sempre+aprendendo+e+evoluindo+com+tecnologia" alt="Typing SVG" />
 </a>
 
 <p>
@@ -25,7 +25,7 @@
 
 💻 Gosto de aprender na prática, resolver problemas e transformar ideias em soluções através da programação.
 
-🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Java, Python, JavaScript, SQL, PHP, React e TypeScript**, além de explorar **Inteligência Artificial e automação**.
+🚀 Atualmente, venho desenvolvendo meus conhecimentos em **Python, JavaScript, SQL, PHP, Java, React e TypeScript**, além de explorar **Inteligência Artificial e automação**.
 
 ---
 
@@ -43,10 +43,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,php" />
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,java" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
     </td>
   </tr>
   <tr>
