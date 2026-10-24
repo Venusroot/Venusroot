@@ -80,8 +80,8 @@
 ---
 
 ## 🧠 Atualmente aprendendo
-
-`Java` `SQL` `Python` `JavaScript` `PHP` `React` `TypeScript` `IA` `n8n`
+ 
+`Python` `SQL` `Java` `JavaScript` `PHP` `React` `TypeScript` `IA` `n8n`
 
 ---
 
