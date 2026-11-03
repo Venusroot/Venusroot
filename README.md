@@ -42,7 +42,7 @@ class Developer:
 {
   "linguagens": ["Python", "SQL", "JavaScript", "Java", "PHP", "TypeScript"],
   "web": ["React", "HTML", "CSS", "Bootstrap"],
-  "banco_de_dados": ["MySQL"],
+  "banco_de_dados": ["SQLServer"], ["MySQL"],
   "ferramentas": ["Git", "GitHub", "VS Code", "Visual Studio"],
   "status": "em formação",
   "estudando": ["Python", "SQL", "Java", "JavaScript", "PHP", "React", "TypeScript", "IA", "n8n"]
